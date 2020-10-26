@@ -1,0 +1,169 @@
+body{   
+    margin:0px; 
+    font-family: 'Inconsolata', monospace;
+ }
+.üstsayfa{
+    background: #0b0b0b;
+    background-image: url(img/kodlar.jpg);
+    background-attachment: local;
+    
+
+}
+.logo{
+    width: 100px;
+    margin-top: -25px;
+}
+.baslik
+{
+    margin-top: 400px;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+.sosyalmedya{
+ width: 200px;
+margin-top: 30px;
+}
+.baslikaltyazi{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family: 'Courgette', cursive;
+
+
+
+}
+.instalogo{
+    width: 25px;
+    margin: 10px;
+}
+.twitterlogo{
+    width: 25px;
+    margin: 10px;
+}
+.youtubelogo{
+    width: 25px;
+    margin: 10px;
+    
+}
+.ortabilgi{
+
+    width: 100%;   
+    height: 75%; 
+
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Inconsolata', monospace;
+    
+}
+.kazimfoto{
+    width: 600px;
+    border: 3px solid #38a1f4 ;
+    border-radius: 15px; 
+    margin-left: 15%;
+    float: left;
+    margin-right: 2%;
+}
+.kazimyazi{
+    margin-left:15%;
+    margin-right: 15%;
+    font-family: 'Inconsolata', monospace;
+    margin: 10 10 10px; 
+
+    height: 25%;
+}
+.hakkimdaaltcizgi{
+    border: 1px solid #38a1f4 ;
+    
+    width: 100px;
+    margin-top: -35px;  
+}
+.iletisimegec{
+    border: 3px solid #38a1f4;
+    border-radius: 20px;
+    
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+    float: left;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.cv{
+    
+    border: 3px solid #38a1f4;
+    border-radius: 20px;
+    width: 140px;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px;
+    float: left;
+}
+.butonlar{
+    margin-right: 15%;
+    margin-left:15%;
+}
+.cvyazi{
+    margin-top: 8%;
+    color: black;
+}
+.iletisimyazi{
+    margin-top: 8%;
+    color: black;
+    text-decoration: line-through;
+}/*
+.cviletisim{
+    margin-left: 30%;
+    margin-top: 5%;
+} */
+.altbar{
+    height: 15px;
+    padding:15px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: -5px;
+    bottom:0px;
+}
+.deneyim{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+    background: #f4f4f4;
+    height: 50%;
+
+}
+.portfolyobaslik{
+    font-size: 100px;
+}
+.portfolyo{
+
+    position:fixed;
+
+
+    float: left;
+    height: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.portfolyokategoriler{
+    width: 33.33%;
+    height: 75%;
+
+    
+    border-radius: 20px;
+}
+.deneyim{
+    margin-top: 25%;
+}
+.kazimyazisi{
+    float: left;
+}
